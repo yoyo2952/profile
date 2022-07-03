@@ -226,14 +226,16 @@ a.item:hover{
     border-radius: 5px;
     }
     
+   .word{width: 95%;}
+    .excel{width: 85%;}
     .spss{width:90%; }
+    .mtsql{width: 88%;}
     .c++ {width: 90%; } 
     .html {width: 92%; } 
     .css {width: 85%; } 
     .js {width: 92%; }
     .java {width: 88%; }
     .python {width: 88%; } 
-
 
     .skill_level {
     background-color: orange;

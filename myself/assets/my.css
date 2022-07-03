@@ -225,8 +225,7 @@ a.item:hover{
     margin-right: 50px;
     border-radius: 5px;
     }
-    
-   .word{width: 95%;}
+    .word{width: 95%;}
     .excel{width: 85%;}
     .spss{width:90%; }
     .mtsql{width: 88%;}
@@ -236,6 +235,7 @@ a.item:hover{
     .js {width: 92%; }
     .java {width: 88%; }
     .python {width: 88%; } 
+
 
     .skill_level {
     background-color: orange;
